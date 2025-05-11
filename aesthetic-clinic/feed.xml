@@ -57,7 +57,107 @@
     z-index: 0;
 }
 
-</style>
+#section0 h1 , #section0 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section0 h2 , #section0 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 h3, #section0 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 h4, #section0 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section0 h5 , #section0 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 h6 , #section0 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section1 h1 , #section1 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section1 h2 , #section1 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 h3, #section1 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 h4, #section1 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section1 h5 , #section1 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 h6 , #section1 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    </style>
 </head>
 <body>
 
@@ -81,9 +181,9 @@
              
         ">
             <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
-                <div style="height:px; width:px;"><img src="image.php?name=lipologo.png&id=1573195264675bc32242aa03.07449861" alt="Logo" style="height:100px;width:250px"></div>
+                <div style="height:px; width:px;"><img src="image.php?name=lipologo.png&id=6323919646820214e8578c0.26290073" alt="Logo" style="height:100px;width:250px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a>
+                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">Blog</a>
                 </div>
             </div>
         </nav>
