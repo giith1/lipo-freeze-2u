@@ -157,6 +157,56 @@
         font-style: normal;
    
 }       
+    #section2 h1 , #section2 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section2 h2 , #section2 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 h3, #section2 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 h4, #section2 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section2 h5 , #section2 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 h6 , #section2 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
     </style>
 </head>
 <body>
